@@ -1,0 +1,5 @@
+5.To schedule a job for more than one time (e.g. Twice a Day)
+
+The following script take a incremental backup twice a day every day.
+
+This example executes the specified incremental backup shell script (incremental-backup) at 11:00 and 16:00 on every day. The comma separated value in a field specifies that the command needs to be executed in all the mentioned time.
